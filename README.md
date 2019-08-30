@@ -1,6 +1,4 @@
 # Image_Classification_Spring_Position
 This repo presents the use of CNN to detect spring position.
 
-The folder "Images" contains the images used to train the CNN and it is already structured to be used.
-The jupyter notebbok contains teh  code used to create and implement CNN in this problem.
-
+There are three files .rar that contain the the images I have used to train, validate and test the CNN. And there is a jupyter file that contains the code and the results of the CNN applied to this problem.
